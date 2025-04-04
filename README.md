@@ -31,4 +31,5 @@ https://github.com/user-attachments/assets/75d96320-7a84-40bc-a78a-1f39dd63ebd0
 ## Tests
 Unit and UI tests were performed on all developed features.
 The image shows the tests performed, which can be found in the project roadmap.
-![Test evidence ]([(https://github.com/tmarrugos/tmarrugo_flutter_cats/blob/master/Captura%20de%20pantalla%202025-04-04%20063056.png)])
+
+![Test evidence](https://github.com/user-attachments/assets/8c49d09c-8ab8-4c66-b17c-42ed49eff386)

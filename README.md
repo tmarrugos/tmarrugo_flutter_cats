@@ -1,16 +1,34 @@
 # tmarrugo_flutter_cats
 
-A new Flutter project.
+Flutter project to obtain a list of cat breeds as a technical test for approaching the "Flutter Developer" role.
 
-## Getting Started
+## Stack
 
-This project is a starting point for a Flutter application.
+- Dart
+- Material 3
+- Riverpod, Provider
+- Dio
+- Await
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
+- google_fonts
+- cupertino_icons
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Evidences
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Complete functionality
+
+
+https://github.com/user-attachments/assets/84fcfedf-6a58-45d4-9b91-e7c7c03865ce
+
+
+### Scroll enable inside details screen
+
+
+https://github.com/user-attachments/assets/75d96320-7a84-40bc-a78a-1f39dd63ebd0
+
+
+## Tests
+Unit and UI tests were performed on all developed features.
+The image shows the tests performed, which can be found in the project roadmap.
+![Test evidence ]([(https://github.com/tmarrugos/tmarrugo_flutter_cats/blob/master/Captura%20de%20pantalla%202025-04-04%20063056.png)])
